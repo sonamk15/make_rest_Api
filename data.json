@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "GIT101 - Learning GIT",
+    "shortDescription": "Learning Basics of using GIT",
+    "exercise": [
+      {
+        "id": 1,
+        "name": "Task1",
+        "content": "Iss exercise mein hum game khelenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      },
+      {
+        "id": 2,
+        "name": "Task2",
+        "content": "Iss exercise mein hum marenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      },
+      {
+        "name": "Task3",
+        "courseId": 1,
+        "content": "Iss exercise mein hum.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Introduction to HTML",
+    "shortDescription": "Learn how to use HTML to build simple web pages :)",
+    "exercise": [
+      {
+        "id": 1,
+        "courseId": 1,
+        "name": "Task1",
+        "content": "Iss exercise mein hum game khelenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      },
+      {
+        "name": "Task",
+        "content": "hame kya karna hai",
+        "hint": "Hello! Yeh ek hifghjkdfg!!!!",
+        "id": "2"
+      },
+      {
+        "name": "Task3",
+        "content": "Iss exercise mein hum.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 3,
+        "courseId": 1
+      },
+      {
+        "name": "Task14",
+        "content": "Iss exercise paticular to nhi h.",
+        "hint": "Hello! Yeh ek hifghjkdfg!!!!",
+        "courseId": "2",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Introduction to CSS",
+    "shortDescription": "Learn how to use CSS to add styles to simple web pages :)",
+    "exercise": [
+      {
+        "id": 1,
+        "courseId": 1,
+        "name": "Task1",
+        "content": "Iss exercise mein hum game khelenge.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      },
+      {
+        "id": 2,
+        "courseId": 1,
+        "name": "Task2",
+        "content": "Iss exercise mein hum .",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+      },
+      {
+        "name": "Task3",
+        "content": "Iss exercise mein hum.",
+        "hint": "Hello! Yeh ek hint hai!!!!",
+        "id": 3,
+        "courseId": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Basics of Programming using Python",
+    "shortDescription": "We will learn the basics of programming using this course."
+  },
+  {
+    "id": 5,
+    "name": "Getting Started",
+    "shortDescription": "We will learn how to spend your time effectively at NavGurukul. All new students must go through this course."
+  },
+  {
+    "id": 6,
+    "name": "Samvaad - Beginner",
+    "shortDescription": "Topics for English conversation among students"
+  },
+  {
+    "id": 7,
+    "name": "Samvaad - Intermediate",
+    "shortDescription": "English Conversation Cards"
+  },
+  {
+    "id": 8,
+    "name": "Learn 3000 English Words",
+    "shortDescription": "Build your english vocabulary by learning these 3000 words"
+  },
+  {
+    "id": 9,
+    "name": "Android - Learn Android",
+    "shortDescription": "Chalo bhai, Android seekhte hai!"
+  },
+  {
+    "id": 10,
+    "name": "Hackathon - Dry Run on a Dry Day",
+    "shortDescription": "Isse aap program ka dry run ke through program ka control flow bananana seekhoge."
+  },
+  {
+    "id": 11,
+    "name": "English - Beginner",
+    "shortDescription": "Learn English Basics"
+  },
+  {
+    "id": 12,
+    "name": "Reading Comprehension",
+    "shortDescription": "Topics for English conversation among students"
+  },
+  {
+    "id": 13,
+    "name": "English - Intermediate",
+    "shortDescription": "English learning for intermediate level"
+  },
+  {
+    "id": 14,
+    "name": "Diwali Projects",
+    "shortDescription": "Diwali Par Chutti ke liye Projects"
+  },
+  {
+    "id": 15,
+    "name": "Task7",
+    "shortDescription": "Programming Exercise Course.",
+    "description": "Iss me ham put kar rahe hai."
+  },
+  {
+    "id": 16,
+    "name": "Samvaad - Learning through dialogue!",
+    "shortDescription": "Learn English with one-on-one dialogues and reflecting on various important topics"
+  },
+  {
+    "id": 17,
+    "name": "Task7",
+    "shortDescription": "Manthan Opportunities and Experiences",
+    "description": "Iss me ham post kar rahe hai."
+  },
+  {
+    "id": 18,
+    "name": "Problem Solving 101",
+    "shortDescription": "Some great problem solving challenges to keep you awake."
+  },
+  {
+    "name": "Task6",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "id": 19
+  },
+  {
+    "name": "Task2",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "id": 20
+  },
+  {
+    "name": "Task2",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "id": 21
+  },
+  {
+    "name": "Task2",
+    "content": "Iss exercise mein hum games khelenge.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "id": 22
+  },
+  {
+    "name": "Task7",
+    "content": "Iss exercise mein hum games khelna nhi seekhege.",
+    "hint": "Hello! Yeh ek hint hai!!!!",
+    "id": 23
+  },
+  {
+    "name": "Task7",
+    "shortDescription": "Iss exercise mein hum games khelna nhi seekhege.",
+    "id": 24
+  },
+  {
+    "name": "Task7",
+    "shortDescription": "Iss me ham post kar rahe hai.",
+    "id": 25
+  },
+  {
+    "name": "Task18",
+    "content": "Iss exercise paticular.",
+    "hint": "Hello! Yeh ek hifghjkdfg!!!!",
+    "id": 2
+  },
+  {
+    "name": "Task18",
+    "content": "Iss exercise paticular.",
+    "hint": "Hello! Yeh ek hifghjkdfg!!!!",
+    "id": 2
+  },
+  {
+    "name": "Task19",
+    "content": "Iss exercise paticular to nhi h.",
+    "hint": "Hello! Yeh ek hifghjkdfg!!!!",
+    "id": 2
+  }
+]

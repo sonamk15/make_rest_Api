@@ -1,0 +1,70 @@
+[
+  {
+    "1": [
+      {
+        "submission": "file1",
+        "user_name": "Rashmi",
+        "Exercise_id": 1,
+        "user_id": 1,
+        "course_id": 1
+      },
+      {
+        "submission": "file2",
+        "user_name": "swati",
+        "Exercise_id": 2,
+        "user_id": 2,
+        "course_id": 1
+      },
+      {
+        "submission": "file3",
+        "user_name": "Apeksha",
+        "Exercise_id": 1,
+        "user_id": 3,
+        "course_id": 1
+      },
+      {
+        "Ex_id": 1,
+        "user_id": 4,
+        "cource_id": 1
+      }
+    ]
+  },
+  {
+    "2": [
+      {
+        "submission": "file1",
+        "user_name": "sonam",
+        "Exercise_id": 1,
+        "user_id": 1,
+        "course_id": 2
+      },
+      {
+        "submission": "file2",
+        "user_name": "krishna",
+        "Exercise_id": 1,
+        "user_id": 2,
+        "course_id": 2
+      },
+      {
+        "submission": "file1",
+        "user_name": "sonam",
+        "Exercise_id": 5,
+        "user_id": 3,
+        "course_id": 5,
+        "Ex_id": 2,
+        "cource_id": 2
+      }
+    ]
+  },
+  {
+    "3": [
+      {
+        "submission": "file1",
+        "user_name": "Ankita",
+        "Exercise_id": 1,
+        "course_id": 3,
+        "user_id": 1
+      }
+    ]
+  }
+]
